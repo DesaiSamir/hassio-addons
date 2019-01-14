@@ -25,7 +25,7 @@ https://github.com/DesaiSamir/hassio-addons
 
 ## <a name='addons'></a>List of add-ons
 
-- [Remote Backups][remote-backups]: automatically create Hass.io to remote server location using `SCP`.
+- [Remote Backup][remote-backup]: automatically create Hass.io to remote server location using `SCP`.
 
-[remote-backups]: https://github.com/DesaiSamir/my-remote-backup
+[remote-backup]: https://github.com/DesaiSamir/my-remote-backup
 [license-shield]: https://img.shields.io/github/license/mr-bjerre/hassio-addons.svg
